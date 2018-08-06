@@ -1,2 +1,0 @@
-MY Portofolio
-Ilham Sianipar
