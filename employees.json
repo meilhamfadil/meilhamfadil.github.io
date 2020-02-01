@@ -1,0 +1,36 @@
+{
+    "code": "200",
+    "message": "List of User",
+    "data": [
+        {
+            "name": "Ilham Fadil Oktora Sianipar",
+            "job": "CEO",
+            "age": 22
+        },
+        {
+            "name": "Rizky Meiputra Nugraha",
+            "job": "General Manager",
+            "age": 22
+        },
+        {
+            "name": "Redam Laksana Mulya",
+            "job": "Programmer",
+            "age": 21
+        },
+        {
+            "name": "Hilman Nawawi",
+            "job": "Product Manager",
+            "age": 22
+        },
+        {
+            "name": "Elsa Herliyanti",
+            "job": "Secretary",
+            "age": 21
+        },
+        {
+            "name": "Silvana Aulia",
+            "job": "Marketing Manager",
+            "age": 22
+        }
+    ]
+}
